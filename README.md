@@ -17,3 +17,9 @@
 見た目も無理やり調節したのを覚えてる
 
 ソースコードの書き直しは番号つけて区別したのでいっぱいある
+
+以下SS
+![](https://github.com/Hiroya-W/Unity_Medarot/blob/imgs/SnapCrab_2018-12-27_13-36-23.png)
+![](https://github.com/Hiroya-W/Unity_Medarot/blob/imgs/SnapCrab_2018-12-27_13-36-42.png)
+![](https://github.com/Hiroya-W/Unity_Medarot/blob/imgs/SnapCrab_2018-12-27_13-37-46.png)
+![](https://github.com/Hiroya-W/Unity_Medarot/blob/imgs/SnapCrab_2018-12-27_13-38-6.png)
